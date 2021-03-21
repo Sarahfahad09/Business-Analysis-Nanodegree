@@ -12,7 +12,7 @@ In this program, you’ll learn foundational data skills that apply across funct
 
 
 
-##  - Project 1 - [Insights from Data](https://github.com/nancyalaswad90/Business-Analysis-Nanodegree/blob/master/project1.pdf)
+##  - Project 1 - [Insights from Data](https://github.com/Sarahfahad09/Business-Analysis-Nanodegree/blob/project1.pdf)
 
 
 
@@ -29,7 +29,7 @@ In this program, you’ll learn foundational data skills that apply across funct
 
 .
 
-###  - Project 2 -  [ Analyze NYSE data](https://github.com/nancyalaswad90/Analyze-NYSE-Data)
+###  - Project 2 -  [ Analyze NYSE data](https://github.com/Sarahfahad09/Analyze-NYSE-Data)
 
 ###  - Project 3  
 
